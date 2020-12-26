@@ -1,0 +1,40 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  color: red;
+}
+canvas {
+  display: inline-block;
+}
+
+#javascripto{
+  color: red;
+  background-image: url("https://www.google.com/imgres?imgurl=https%3A%2F%2Floading.io%2Fs%2Ficon%2Fswsirj.svg&imgrefurl=https%3A%2F%2Floading.io%2Ficon%2Fswsirj&tbnid=cLXFeMfJb14cWM&vet=12ahUKEwjt57rk0bjtAhU7NXIKHZJrDz8QMygCegUIARDhAQ..i&docid=HpaAL2xXsvNBHM&w=800&h=800&q=animated%20car&ved=2ahUKEwjt57rk0bjtAhU7NXIKHZJrDz8QMygCegUIARDhAQ");
+  background-attachment: fixed;
+}
+
+h1{
+  color:red;
+  text-emphasis: font;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+h1:hover{
+color:rgb(255, 8, 214);
+transition: all 3s;
+
+}
+.color-codee{
+  text-decoration: none;
+  size: 20px;
+}
+
+.color-codee:hover {
+  color:rgb(255, 1, 120)
+}
+h1:active{
+  
+  color:rgb(94, 255, 0);
+  transition: all 3s;
+}
+
